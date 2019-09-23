@@ -1,0 +1,60 @@
+body {
+    background-color: #d4d4d4;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #333;
+    overflow-x: hidden;
+  }
+  
+  .custom-container, .container-fluid {
+    max-width: 1310px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .navbar {
+    position: relative;
+  }
+  
+  .header {
+    width: 100%;
+  }
+  
+  .header:first-child {
+    background-color: #F72210;
+  }
+  
+  .header:first-child p {
+    color: #fff;
+  }
+  
+  .header:last-child {
+    padding: 15px 15px 15px 0;
+    background-color: white;
+    border: 2px solid #f4f5f6;
+  }
+  
+  .header:last-child .navbar {
+    height: 24px;
+  }
+  
+  .header:last-child .form-inline .form-control {
+    width: 65px;
+    height: 24px;
+    color: rgba(0,0,0,.55);
+    background-color: white;
+    font-size: 16px;
+  
+  }
+  
+  .header:last-child .form-inline .btn {
+    background: url(https://g.newsweek.com/www/images/icon-search-glass.svg) center/contain no-repeat white;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .header .navbar-brand svg{
+    width: 132px;
+    height: 20px;
+    fill: white;
+  }
+  
