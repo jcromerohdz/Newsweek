@@ -182,7 +182,7 @@ body {
   margin-bottom: 0;
 }
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
     height: 60px;
