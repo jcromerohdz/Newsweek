@@ -221,6 +221,21 @@ body {
   font: bold 19px/19px "Roboto Condensed", sans-serif;
 }
 
+#fr-right .mag-cat,
+#second-row .mag-cat {
+  padding: 4px 7px;
+  background-color: #f72210;
+  color: white;
+  margin-right: 7px;
+  font: bold 16px "Roboto Condensed";
+}
+
+#fr-right .cat,
+#second-row .cat {
+  font: bold 16px "Roboto Condensed";
+  color: #f72210;
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
