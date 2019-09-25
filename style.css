@@ -182,10 +182,55 @@ body {
   margin-bottom: 0;
 }
 
+#inthemag-left .card-body h5 {
+  font: bold 18px/18px "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+}
+
+#sign-up-box {
+  max-width: 300px;
+  margin: 0 auto 30px;
+  border: 1px solid #e5e5e5;
+  background-color: #f4f5f6;
+  padding: 20px;
+}
+
+#sign-up-box a:first-child {
+  color: #333;
+  font: bold 19px/19px "Roboto Condensed", sans-serif;
+}
+
+#sign-up-box a:last-child {
+  color: #333;
+  font: bold 15px/15px "Roboto Condensed", sans-serif;
+}
+
+#sign-up-box img {
+  background-color: #f72210;
+}
+
+#fr-right img,
+#nw-editors-pick .mag-title img,
+#featured-slideshows .mag-title img {
+  background-color: #f72210;
+}
+
+#fr-right .mag-title,
+#nw-editors-pick .mag-title,
+#featured-slideshows .mag-title {
+  font: bold 19px/19px "Roboto Condensed", sans-serif;
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
     height: 60px;
     fill: white;
+  }
+
+  #top-story,
+  #featured-story,
+  #opinion {
+    height: 1700px;
   }
 }
