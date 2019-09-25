@@ -275,6 +275,14 @@ body {
   left: 80px;
 }
 
+.subs-info a {
+  background-color: #f72210;
+  display: inline-block;
+  padding: 10px 12px;
+  color: white;
+  font: bold 18px/18px "Roboto Condensed";
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
