@@ -283,6 +283,29 @@ body {
   font: bold 18px/18px "Roboto Condensed";
 }
 
+.newsletter-box {
+  width: 100%;
+  flex: 1;
+}
+
+.newsletter-box .nletter-image {
+  max-width: 191px;
+  width: 150%;
+}
+
+.nletter-info {
+  border: 1px solid #ebebeb;
+  padding: 30px;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.nletter-info a {
+  padding: 10px 12px;
+  font: bold 18px/18px "Roboto Condensed";
+  background-color: #f72210;
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
@@ -294,5 +317,9 @@ body {
   #featured-story,
   #opinion {
     height: 1700px;
+  }
+
+  .newsletter-box {
+    height: 301px;
   }
 }
