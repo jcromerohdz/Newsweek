@@ -227,7 +227,9 @@ body {
   background-color: #f72210;
   color: white;
   margin-right: 7px;
-  font: bold 16px "Roboto Condensed";
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 #fr-right .cat,
@@ -282,7 +284,9 @@ body {
   display: inline-block;
   padding: 10px 12px;
   color: white;
-  font: bold 18px/18px "Roboto Condensed";
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px/18px;
+  font-weight: bold;
 }
 
 .newsletter-box {
@@ -304,7 +308,9 @@ body {
 
 .nletter-info a {
   padding: 10px 12px;
-  font: bold 18px/18px "Roboto Condensed";
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px/18px;
+  font-weight: bold;
   background-color: #f72210;
 }
 
