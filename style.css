@@ -236,6 +236,45 @@ body {
   color: #f72210;
 }
 
+#featured-slideshows .count-link {
+  width: 70px;
+  height: 52px;
+  display: block;
+  position: absolute;
+  top: auto;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 58px;
+  text-indent: 5px;
+  text-align: center;
+  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
+  color: #e9212e;
+}
+
+.subs-box {
+  padding: 30px;
+  background-color: #f4f5f6;
+  flex: 1;
+}
+
+.subs-image {
+  position: relative;
+  padding-bottom: 13px;
+  padding-right: 90px;
+  flex: none;
+}
+
+.subs-image .mag-thumb {
+  width: 170px;
+  height: 228px;
+}
+
+.subs-image .mag-thumb.current {
+  position: absolute;
+  top: 13px;
+  left: 80px;
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
