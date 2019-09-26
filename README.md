@@ -4,7 +4,7 @@ The stack of technologies using for this project are HTML and CSS in order to mi
 
 
 ## LIVE PREVIEW URL
-[live_preview](http://htmlpreview.github.io/?https://https://github.com/jcromerohdz/Newsweek/blob/layout/index.html)
+[live_preview](http://htmlpreview.github.io/?https://github.com/jcromerohdz/Newsweek/blob/layout/index.html)
 
 
 ## PROJECT REFERENCE URL
