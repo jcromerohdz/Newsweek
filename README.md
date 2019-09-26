@@ -1,5 +1,6 @@
 # Newsweek
-In this project, I get the chance to try out Twitter’s Bootstrap framework features by building a site that actually uses it – Newsweek. The stack of technologies that I will used is HTML and CSS in order to mimic the apperince of the web site. 
+In this project, I get the chance to try out Twitter’s Bootstrap framework features by building a site that actually uses it – Newsweek. 
+The stack of technologies using for this project are HTML and CSS in order to mimic the apperince of the web site. 
 
 
 ## LIVE PREVIEW URL
