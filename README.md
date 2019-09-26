@@ -1,5 +1,5 @@
 # Newsweek
-In this project, I get the chance to try out Twitter’s Bootstrap framework features by building a site that actually uses it – Newsweek. 
+In this project, I get the chance to try out Twitter’s Bootstrap framework features by building a site that actually uses it – Newsweek. The stack of technologies that I will used is HTML and CSS in order to mimic the apperince of the web site. 
 
 
 ## LIVE PREVIEW URL
@@ -8,3 +8,6 @@ In this project, I get the chance to try out Twitter’s Bootstrap framework fea
 
 ## PROJECT REFERENCE URL
 [To more info ](https://https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
+
+## AUTHOR
+Christian Romero

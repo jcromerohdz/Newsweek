@@ -63,7 +63,12 @@ body {
   padding-top: 20px;
 }
 
-#top-story,
+.navbar-nav > li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* #top-story,
 #opinion {
   -ms-overflow-style: none;
   overflow: -moz-scrollbars-none;
@@ -72,7 +77,7 @@ body {
 #top-story::-webkit-scrollbar,
 #opinion::-webkit-scrollbar {
   width: 0 !important;
-}
+} */
 
 .main #featured-story .card .card-img-overlay,
 #top-story .card .card-img-overlay,
@@ -374,6 +379,20 @@ body {
   cursor: pointer;
 }
 
+@media screen and (max-width: 1232px) {
+  .navbar-nav > li {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media screen and (max-width: 1046px) {
+  .navbar-nav > li {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
 @media screen and (min-width: 992px) {
   .header .navbar-brand svg {
     width: 396px;
@@ -381,11 +400,11 @@ body {
     fill: white;
   }
 
-  #top-story,
+  /* #top-story,
   #featured-story,
   #opinion {
     height: 1700px;
-  }
+  } */
 
   .newsletter-box {
     height: 301px;
@@ -404,10 +423,10 @@ body {
     line-height: 20px;
   }
 
-  #top-story,
+  /* #top-story,
   #featured-story {
     height: 1800px;
-  }
+  } */
 
   #fr-right .mag-title,
   #nw-editors-pick .mag-title,
